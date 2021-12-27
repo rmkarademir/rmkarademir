@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     Coderbyte</a
   >
   <a
-    href="https://www.hackerrank.com/rmkarademir"
+    href="https://www.hackerrank.com/rustemkarademir"
     target="blank"
     title="LinkedIn"
     ><img
