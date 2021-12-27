@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/rmkarademr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seneemmdemir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/r%C3%BCstem-muhammed-karademir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senem-demir-91b754188" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rmkarademir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senemm.demir" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rustemkarademir" target="blank" title="Hackerrank" ><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png" alt="rmkarademir" height="30" width="30" /></a>
+<a href="https://coderbyte.com/profile/rmkarademir" target="blank" title="Coderbyte" ><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--aOxxf45v--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1155/daee822c-2c89-4fd4-98f3-b58afb56bbef.jpg" alt="rmkarademir" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
@@ -34,49 +36,3 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
-
-
-<hr />
-<h3 align="left">Contact:</h3>
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/rustem-muhammed-karademir/"
-    target="blank"
-    title="Linkedn"
-    ><img
-      align="center"
-      src="https://image.pngaaa.com/708/1947708-middle.png"
-      alt="rmkarademir"
-      height="30"
-      width="30"
-    />
-    Linkedn</a
-  >
-  <a
-    href="https://coderbyte.com/profile/rmkarademir"
-    target="blank"
-    title="Coderbyte"
-    ><img
-      align="center"
-      src="https://res.cloudinary.com/practicaldev/image/fetch/s--aOxxf45v--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1155/daee822c-2c89-4fd4-98f3-b58afb56bbef.jpg"
-      alt="rmkarademir"
-      height="30"
-      width="30"
-    />
-    Coderbyte</a
-  >
-  <a
-    href="https://www.hackerrank.com/rustemkarademir"
-    target="blank"
-    title="Hackerrank"
-    ><img
-      align="center"
-      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png"
-      alt="rmkarademir"
-      height="30"
-      width="30"
-    />
-    Hackerrank</a
-  >
- </p>
-<hr />
