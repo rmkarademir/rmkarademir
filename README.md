@@ -35,7 +35,33 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
 
- <h3 align="left">Progress:</h3>
+
+<hr />
+<h3 align="left">Progress:</h3>
+<p align="center">
+  <a
+    href="www.linkedin.com/in/gokselyesiller"
+    target="blank"
+    title="LinkedIn"
+    ><img
+      align="center"
+      src="https://image.pngaaa.com/708/1947708-middle.png"
+      alt="gokselyesiller"
+      height="30"
+      width="30"
+    />
+    Linkedn</a
+  >
+  <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"
+    ><img
+      align="center"
+      src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"
+      alt="gokselyesiller"
+      height="30"
+      width="30"
+    />
+    Twitter</a
+  >
   <a
     href="https://coderbyte.com/profile/rmkarademir"
     target="blank"
@@ -62,3 +88,5 @@ Here are some ideas to get you started:
     />
     Hackerrank</a
   >
+ </p>
+<hr />
