@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rüstem Muhammed Karademir</h1>
 <h3 align="center">I'm a Software Developer</h3>
-<img src="https://emreceyhan.net/upload/emreceyhan_55301ab5a068e.gif" width="25px">
+<img src="https://emreceyhan.net/upload/emreceyhan_55301ab5a068e.gif" width="150px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
