@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 
 <hr />
-<h3 align="left">Progress:</h3>
+<h3 align="left">Contact:</h3>
 <p align="center">
   <a
-    href="www.linkedin.com/in/rüstem-muhammed-karademir/"
+    href="https://www.linkedin.com/in/r%C3%BCstem-muhammed-karademir/"
     target="blank"
-    title="LinkedIn"
+    title="Linkedn"
     ><img
       align="center"
       src="https://image.pngaaa.com/708/1947708-middle.png"
