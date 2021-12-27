@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <hr />
 <h3 align="left">Contact:</h3>
-<p align="center">
+<p align="left">
   <a
-    href="https://www.linkedin.com/in/r%C3%BCstem-muhammed-karademir/"
+    href="https://www.linkedin.com/in/rustem-muhammed-karademir/"
     target="blank"
     title="Linkedn"
     ><img
