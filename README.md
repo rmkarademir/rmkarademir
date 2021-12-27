@@ -40,27 +40,17 @@ Here are some ideas to get you started:
 <h3 align="left">Progress:</h3>
 <p align="center">
   <a
-    href="www.linkedin.com/in/gokselyesiller"
+    href="www.linkedin.com/in/rüstem-muhammed-karademir/"
     target="blank"
     title="LinkedIn"
     ><img
       align="center"
       src="https://image.pngaaa.com/708/1947708-middle.png"
-      alt="gokselyesiller"
+      alt="rmkarademir"
       height="30"
       width="30"
     />
     Linkedn</a
-  >
-  <a href="https://twitter.com/MrYesiller" target="blank" title="Twitter"
-    ><img
-      align="center"
-      src="https://clipartcraft.com/images/twitter-logo-png-green-4.png"
-      alt="gokselyesiller"
-      height="30"
-      width="30"
-    />
-    Twitter</a
   >
   <a
     href="https://coderbyte.com/profile/rmkarademir"
@@ -68,7 +58,7 @@ Here are some ideas to get you started:
     title="Coderbyte"
     ><img
       align="center"
-      src="/img/coderbyte_son.png"
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--aOxxf45v--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1155/daee822c-2c89-4fd4-98f3-b58afb56bbef.jpg"
       alt="rmkarademir"
       height="30"
       width="30"
@@ -78,7 +68,7 @@ Here are some ideas to get you started:
   <a
     href="https://www.hackerrank.com/rustemkarademir"
     target="blank"
-    title="LinkedIn"
+    title="Hackerrank"
     ><img
       align="center"
       src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png"
