@@ -34,3 +34,31 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+
+ <h3 align="left">Progress:</h3>
+  <a
+    href="https://coderbyte.com/profile/rmkarademir"
+    target="blank"
+    title="Coderbyte"
+    ><img
+      align="center"
+      src="/img/coderbyte_son.png"
+      alt="rmkarademir"
+      height="30"
+      width="30"
+    />
+    Coderbyte</a
+  >
+  <a
+    href="https://www.hackerrank.com/rmkarademir"
+    target="blank"
+    title="LinkedIn"
+    ><img
+      align="center"
+      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png"
+      alt="rmkarademir"
+      height="30"
+      width="30"
+    />
+    Hackerrank</a
+  >
