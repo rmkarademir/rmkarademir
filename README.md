@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmkarademir&show_icons=true&theme=radical&locale=en&layout=compact" alt="rmkarademir" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rmkarademir&show_icons=true&theme=dark&locale=en" alt="rmkarademir"  /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rmkarademir&show_icons=true&theme=dark&locale=en" alt="rmkarademir" width="30%" /></p>
