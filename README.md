@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rüstem Muhammed Karademir</h1>
 <h3 align="center">I'm a Software Developer</h3>
 <h3 align="center">✔️ I'm currently learning - C# .NET</h3>
-<img src="https://emreceyhan.net/upload/emreceyhan_55301ab5a068e.gif" width="350px" align='right'/>
+<img src="https://emreceyhan.net/upload/emreceyhan_55301ab5a068e.gif" width="400px" align='right'/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmkarademir&show_icons=true&theme=radical&locale=en&layout=compact" alt="rmkarademir" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rmkarademir&show_icons=true&theme=dark&locale=en" alt="rmkarademir" width="30%" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rmkarademir&show_icons=true&theme=dark&locale=en" alt="rmkarademir" width="45%" /></p>
