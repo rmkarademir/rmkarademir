@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left"> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://user-images.githubusercontent.com/9201005/61173208-81056980-a590-11e9-8211-41f841e9f8ca.png" alt="csharp" width="27" height="30"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
